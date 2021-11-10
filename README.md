@@ -6,7 +6,7 @@ NOTE: SCode Studio is not an open-source application. This repository only conta
 
 Download
 Scode Studio
-https://by.ly/SCodeStudio
+https://bit.ly/SCodeStudio
 
 Discord
 https://discord.gg/uC3NedQZGA
