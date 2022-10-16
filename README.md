@@ -7,5 +7,5 @@ Programming on mobile App SCode IDE is a mobile coding IDE and platform (Compile
 _SCode Studio is not an open-source project. This repository only contains open-source SCode Assets._
 
 [Download](https://scodestudio.com) Scode Studio
-Discord[[SCode Community](https://discord.gg/znZmxh373x)]
+Discord  [[SCode Community](https://discord.gg/znZmxh373x)]
 [Donate](https://github.com/jaseunda/scode-packages/wiki/Donate) SCode Community
