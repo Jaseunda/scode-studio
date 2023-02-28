@@ -34,7 +34,8 @@ and code sharing
 
 To install SCode Studio on your mobile device,
 
-- Download the app from [Google Play Store](https://play.google.com/store/apps/details?id=com.scodestudio) or [App Store](https://apps.apple.com/us/app/scode-studio/id123456789)
+- Download the app from (Internal Tester)[Google Play Store](https://play.google.com/store/apps/details?id=com.scodestudio) or [App Store](https://apps.apple.com/us/app/scode-studio/id123456789)
+- Download on [release](https://github.com/Jaseunda/scode-studio/releases/tag/stable)
 - Open the app and sign up for a free account
 - Start creating your first app!
 
