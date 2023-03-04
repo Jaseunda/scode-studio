@@ -58,57 +58,61 @@ For more detailed instructions,
 
 please refer to our [documentation](https://scodestudio.com/docs).
 
-## Roadmap
+# Roadmap
 
-*Updated 30th Jan 2022*
+## Accomplished
 
-### Accomplished
+- ✔ Android application PacKage (APK) building
+- ✔ Android library support
+- ✔ APK signer
+- ✔ Built-in web browser for search, etc.
+- ✔ Color palette
+- ✔ Create Mobile IDE
+- ✔ Multi-language compiler [BETA]
+- ✔ Share code using link
+- ✔ Share files
+- ✔ Support multiple languages
+- ✔ Zip support
 
-- [x] Android application PacKage (APK) building 
-- [x] Android library support 
-- [x] APK signer 
-- [x] Built-in web browser for search--etc 
-- [x] Color palette 
-- [x] Create Mobile IDE 
-- [x] Multi language compiler [BETA] 
-- [x] Share code using link 
-- [x] Share files 
-- [x] Support Multiple Languages 
-- [x] Zip support 
+## To be Accomplished
 
-### New
+1. **Develop drag and drop programming feature:** SCode Studio 2.0 will have a drag and drop programming feature for Flutter and React Native, making it easier for beginners to create mobile applications without writing a lot of code.
 
-- [x] Launch Website 
-- [x] SCode Community 
-- [x] React app [Beta]
+2. **Expand language support:** SCode Studio 2.0 will support a wide range of programming languages, including Java, C++, Python, and more, totaling 168 languages.
 
-### To be accomplished
+3. **Build APK and iOS projects:** Scode Studio 2.0 will allow users to build APK and iOS projects, making it easy to develop and test mobile applications on different platforms.
 
-- [ ] AAB compiler
-- [ ] Bring Android Studio and VSCode features to SCode Studio
-- [ ] Create a learning community 
-- [ ] Create docs for all feature's exist 
-- [ ] Drag and Drop feature 
-- [ ] File tab 
-- [ ] Flutter support 
-- [ ] Full feature Kotlin support 
-- [ ] Git implementation 
-- [ ] Implement Termux on SCode Studio 
-- [ ] Make it available on Android and iOS 
-- [ ] Plugins 
-- [ ] Project Settings [via .json] 
-- [ ] Scan code using QR Code 
-- [ ] Themes 
-- [ ] XML editor/viewer
+4. **Implement a built-in Linux CLI app:** Scode Studio 2.0 will have a built-in Linux CLI app, allowing users to run Linux commands from within the app and manage their projects and environments more easily.
 
-#### Additional To-be-accomplished Tasks
+5. **Enable project sync across devices:** When users log in to SCode Studio 2.0, their projects will be synced across all devices. This will enable them to work on their projects on different devices without having to manually transfer files.
 
-- Develop Drag and Drop programming feature: SCode Studio 2.0 will have a drag and drop programming feature for Flutter and React Native, making it easier for beginners to create mobile applications without writing a lot of code.
-- Support for 168 programming languages: SCode Studio 2.0 will support a wide range of programming languages, including Java, C++, Python, and more.
-- Build APK and iOS projects: Scode Studio 2.0 will allow users to build APK and iOS projects, making it easy to develop and test mobile applications on different platforms.
-- Implement a built-in Linux CLI app: Scode Studio 2.0 will have a built-in Linux CLI app, allowing users to run Linux commands from within the app and manage their projects and environments more easily.
-- Enable project sync across devices: When users log in to SCode Studio 2.0, their projects will be synced across all devices. This will enable them to work on their projects on different devices without having to manually transfer files.
-- Allow running projects on any device online: With SCode Studio 2.0, users will be able to run their projects on any device online. This will make it easy to test their projects on different devices without owning them.
+6. **Allow running projects on any device online:** With SCode Studio 2.0, users will be able to run their projects on any device online. This will make it easy to test their projects on different devices without owning them.
+
+7. **Bring Android Studio and VSCode features to SCode Studio:** This will allow users to take advantage of the best features of Android Studio and VSCode, while using the SCode Studio IDE.
+
+8. **Create a learning community:** The SCode community will provide a place for users to share knowledge and collaborate with others on projects.
+
+9. **Create documentation for all features:** Documentation will be created for all features, making it easy for users to learn how to use the different aspects of the IDE.
+
+10. **Implement file tabs:** File tabs will make it easier for users to manage multiple files within the IDE.
+
+11. **Add support for Flutter:** SCode Studio will have full support for Flutter, making it easier for users to create mobile applications with this framework.
+
+12. **Add full feature Kotlin support:** SCode Studio will provide full support for Kotlin, including features such as code completion and debugging.
+
+13. **Implement Git:** Git integration will make it easier for users to manage their projects and collaborate with others.
+
+14. **Make it available on Android and iOS:** SCode Studio will be available on both Android and iOS, making it accessible to a wider audience.
+
+15. **Implement plugins:** Plugins will provide users with additional features and functionality that they can customize to fit their needs.
+
+16. **Implement project settings via .json:** Project settings can be saved and shared via .json files, making it easy for users to manage their project configurations.
+
+17. **Implement QR code scanning:** SCode Studio will allow users to scan QR codes to quickly import projects or share code snippets.
+
+18. **Provide theme customization:** Users will be able to customize the look and feel of the IDE by choosing from a variety of themes.
+
+19. **Implement XML editor/viewer:** XML files will be supported in SCode Studio, including an XML editor and viewer for easier
 
 
 ## License
