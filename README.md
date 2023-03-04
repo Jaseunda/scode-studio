@@ -58,6 +58,59 @@ For more detailed instructions,
 
 please refer to our [documentation](https://scodestudio.com/docs).
 
+## Roadmap
+
+*Updated 30th Jan 2022*
+
+### Accomplished
+
+- [x] Android application PacKage (APK) building 
+- [x] Android library support 
+- [x] APK signer 
+- [x] Built-in web browser for search--etc 
+- [x] Color palette 
+- [x] Create Mobile IDE 
+- [x] Multi language compiler [BETA] 
+- [x] Share code using link 
+- [x] Share files 
+- [x] Support Multiple Languages 
+- [x] Zip support 
+
+### New
+
+- [x] Launch Website 
+- [x] SCode Community 
+- [x] React app [Beta]
+
+### To be accomplished
+
+- [ ] AAB compiler
+- [ ] Bring Android Studio and VSCode features to SCode Studio
+- [ ] Create a learning community 
+- [ ] Create docs for all feature's exist 
+- [ ] Drag and Drop feature 
+- [ ] File tab 
+- [ ] Flutter support 
+- [ ] Full feature Kotlin support 
+- [ ] Git implementation 
+- [ ] Implement Termux on SCode Studio 
+- [ ] Make it available on Android and iOS 
+- [ ] Plugins 
+- [ ] Project Settings [via .json] 
+- [ ] Scan code using QR Code 
+- [ ] Themes 
+- [ ] XML editor/viewer
+
+#### Additional To-be-accomplished Tasks
+
+- Develop Drag and Drop programming feature: SCode Studio 2.0 will have a drag and drop programming feature for Flutter and React Native, making it easier for beginners to create mobile applications without writing a lot of code.
+- Support for 168 programming languages: SCode Studio 2.0 will support a wide range of programming languages, including Java, C++, Python, and more.
+- Build APK and iOS projects: Scode Studio 2.0 will allow users to build APK and iOS projects, making it easy to develop and test mobile applications on different platforms.
+- Implement a built-in Linux CLI app: Scode Studio 2.0 will have a built-in Linux CLI app, allowing users to run Linux commands from within the app and manage their projects and environments more easily.
+- Enable project sync across devices: When users log in to SCode Studio 2.0, their projects will be synced across all devices. This will enable them to work on their projects on different devices without having to manually transfer files.
+- Allow running projects on any device online: With SCode Studio 2.0, users will be able to run their projects on any device online. This will make it easy to test their projects on different devices without owning them.
+
+
 ## License
 
 SCode Studio is licensed under the MIT License.
