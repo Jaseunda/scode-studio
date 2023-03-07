@@ -6,7 +6,7 @@ and more. Experience a seamless development process with integrated cloud servic
 version control,
 and collaboration features.
 
-![SCode Studio screenshot](https://raw.githubusercontent.com/Jaseunda/scode-studio/main/assets/2.0.gif | width=100)
+![SCode Studio screenshot](https://raw.githubusercontent.com/Jaseunda/scode-studio/main/assets/2.0.gif){ width=100% }
 
 ## Features
 
