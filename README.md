@@ -140,4 +140,4 @@ We would love to hear from you!
 
 * [Download](https://scodestudio.com) Scode Studio
 * Discord  [[SCode Community](https://discord.gg/znZmxh373x)]
-* [Donate](https://github.com/jaseunda/scode-packages/wiki/Donate) SCode Community
+* [Donate](https://github.com/Jaseunda/scode-packages/wiki/Support-Me) SCode Community
