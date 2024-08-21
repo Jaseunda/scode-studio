@@ -130,7 +130,7 @@ or suggestions,
 
 please feel free to contact me at:
 
-Email: solodevinfo+scode@gmail.com
+Email: hello@jaseunda.com
 
 Twitter: @jaseunda
 
