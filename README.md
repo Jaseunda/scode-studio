@@ -32,11 +32,9 @@ While waiting for **SCode Studio Pro**, you can still download and start using t
 ![SCode Studio Screenshot](https://scode.studio/static/media/feature_3.91faa236.png)
 
 **SCode Studio Features:**
-- Create apps for **Android**, **iOS**, and **Web** using languages like Java, Kotlin, Swift, JavaScript, and more
-- Design intuitive UIs with drag-and-drop widgets
+- Create apps for **Android** and **Web** using languages like Java, Kotlin, Swift, JavaScript, and more
 - Edit code with **syntax highlighting**, **auto-completion**, **error checking**, and **debugging tools**
 - Test apps on real devices or emulators
-- Publish apps to the **Google Play Store**, **App Store**, or web hosting services
 - Manage projects with **Git integration**
 - Collaborate with other developers using chat rooms and code sharing tools
 - Share code and files easily with others using QR codes and links
