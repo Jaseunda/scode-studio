@@ -35,8 +35,6 @@ While waiting for **SCode Studio Pro**, you can still download and start using t
 - Create apps for **Android** and **Web** using languages like Java, Kotlin, Swift, JavaScript, and more
 - Edit code with **syntax highlighting**, **auto-completion**, **error checking**, and **debugging tools**
 - Test apps on real devices or emulators
-- Manage projects with **Git integration**
-- Collaborate with other developers using chat rooms and code sharing tools
 - Share code and files easily with others using QR codes and links
 
 **Download SCode Studio for Android:**
