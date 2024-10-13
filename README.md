@@ -42,7 +42,7 @@ While waiting for **SCode Studio Pro**, you can still download and start using t
 - Share code and files easily with others using QR codes and links
 
 **Download SCode Studio for Android:**
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.scodestudio)
+- [Google Play Store(Temporary Not Available)](https://play.google.com/store/apps/details?id=com.scodestudio)
 - [GitHub Release](https://github.com/Jaseunda/scode-studio/releases/tag/stable)
 
 ---
@@ -87,9 +87,13 @@ While waiting for **SCode Studio Pro**, you can still download and start using t
 If you have any questions or feedback, feel free to contact me at:
 
 Email: hello@jaseunda.com 
+
 Instagram [@jaseunda](https://instagram.com/jaseunda) 
+
 Twitter: [@jaseunda](https://twitter.com/jaseunda)  
+
 Facebook: [SCode Studio](https://www.facebook.com/SCodeStudio/)
+
 
 * [Download SCode Studio](https://scode.studio) 
 * [Join the SCode Community on Discord](https://discord.gg/znZmxh373x)
