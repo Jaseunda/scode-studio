@@ -1,4 +1,4 @@
-# SCode Studio Pro (Coming Soon)
+# SCode Studio Pro
 
 **SCode Studio Pro** is coming soon, offering the most advanced mobile coding experience for both **iOS** and **Android**! This Pro version will include all the essential features of SCode Studio, plus more powerful tools to help you build apps faster and smarter. Get ready to enjoy a seamless, professional-grade IDE with robust features designed for developers of all levels.
 
